@@ -1,0 +1,28 @@
+{
+  "history_only_logreg": {
+    "auroc": 0.6657,
+    "auprc": 0.0885,
+    "sens_at_10pct_fpr": 0.2418,
+    "alert_threshold": 0.113,
+    "test_sensitivity_at_threshold": 0.0772,
+    "test_false_alarm_rate_at_threshold": 0.0371
+  },
+  "wearable_only_lgbm": {
+    "auroc": 0.9087,
+    "auprc": 0.3576,
+    "sens_at_10pct_fpr": 0.7171,
+    "alert_threshold": 0.1591,
+    "test_sensitivity_at_threshold": 0.6422,
+    "test_false_alarm_rate_at_threshold": 0.0728
+  },
+  "fusion_lgbm": {
+    "auroc": 0.9302,
+    "auprc": 0.4215,
+    "sens_at_10pct_fpr": 0.7763,
+    "alert_threshold": 0.1429,
+    "test_sensitivity_at_threshold": 0.6321,
+    "test_false_alarm_rate_at_threshold": 0.0594
+  },
+  "test_base_rate": 0.0483,
+  "note": "Synthetic data only. Results show the pipeline works, not clinical accuracy."
+}

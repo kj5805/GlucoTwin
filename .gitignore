@@ -1,0 +1,22 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+
+# Generated datasets
+data/sensors.csv.gz
+data/dataset.csv.gz
+data/test_patients.csv
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
