@@ -1,5 +1,5 @@
 {
-  "history_only_logreg": {
+  "ehr_only_logreg": {
     "auroc": 0.6657,
     "auprc": 0.0885,
     "sens_at_10pct_fpr": 0.2418,
@@ -24,5 +24,5 @@
     "test_false_alarm_rate_at_threshold": 0.0594
   },
   "test_base_rate": 0.0483,
-  "note": "Synthetic data only. Results show the pipeline works, not clinical accuracy."
+  "note": "Synthetic data only. Results show the pipeline works, not clinical accuracy. These results do not establish clinical validity or real-world predictive performance."
 }

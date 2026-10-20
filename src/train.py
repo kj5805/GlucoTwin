@@ -74,7 +74,7 @@ def evaluate(m, feats):
 
 
 experiments = {
-    "history_only_logreg": ("logreg", EHR),
+    "ehr_only_logreg": ("logreg", EHR),
     "wearable_only_lgbm": ("lgbm", SENSOR),
     "fusion_lgbm": ("lgbm", SENSOR + EHR),
 }
