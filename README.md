@@ -24,7 +24,7 @@ GlucoTwin is a research prototype that explores how a digital twin-inspired syst
 
 The system compares machine-learning models trained on medical-history features, wearable and sensor features, and a combination of both. An interactive dashboard presents risk estimates, historical trends, model information, and what-if sensitivity analyses.
 
-**Objective:**Explore whether combining multiple data sources can improve early awareness of potential glucose excursions.
+Objective:Explore whether combining multiple data sources can improve early awareness of potential glucose excursions.
 
 2\. Problem Statement
 
@@ -306,11 +306,7 @@ The demonstration video will cover the problem statement, proposed solution, sys
 
 
 
-Video URL: 
-
-
-
-PASTE YOUR VIDEO LINK HERE AFTER UPLOADING
+Video URL: https://drive.google.com/file/d/18TyuRNP__GetcUwsAevaje7R2MtfKOHo/view?usp=sharing
 
 
 
